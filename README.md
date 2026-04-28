@@ -6,10 +6,10 @@
 
 ## 👤 Автор
 
-**Иван Иванов**
+**Ильдан Якупов**
 
-- GitHub: [@ivanivanov](https://github.com/ivanivanov)
-- Email: ivan.ivanov@example.com
+- GitHub: [@ildan-yakupov](https://github.com/ildan-yakupov)
+- Email: ildan.yakupov@example.com
 
 ---
 
